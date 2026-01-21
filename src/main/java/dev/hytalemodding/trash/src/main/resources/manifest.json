@@ -1,0 +1,21 @@
+{
+    "Group": "dev.hytalemodding",
+    "Name": "trash-plugin",
+    "Version": "0.0.1",
+    "Description": "Adds /trash command to open a trash bin for destroying items",
+    "Authors": [
+        
+    ],
+    "ServerVersion": "*",
+    "Dependencies": {
+        
+    },
+    "OptionalDependencies": {
+        
+    },
+    "DisabledByDefault": false,
+    "Main": "dev.hytalemodding.trash.TrashPlugin",
+    "LoadBefore": {
+        
+    }
+}
