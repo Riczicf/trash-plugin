@@ -85,6 +85,11 @@
 - Initial release
 - Added `/trash` command
 - Single-slot trash bin implementation
+  
+### v0.0.2
+- Items placed in the trash slot can be recovered by clicking on them
+- Placing a new item while the slot is occupied destroys the previous item (no swap)
+- Supports Shift+LMB (quick move) to instantly trash items from inventory
 
 ---
 
